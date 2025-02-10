@@ -8,3 +8,4 @@ django-crispy-forms>=1.14.0
 Pillow>=9.0.0
 python-decouple>=3.6
 django-storages>=1.12.3
+Django-bootstrap4>=3.0.1
